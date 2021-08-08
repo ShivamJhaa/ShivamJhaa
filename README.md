@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShivamJhaa
 - 👀 I’m interested in Cyber Security and AI
-- 🌱 I’m currently learning Cyber Security
+- 🌱 I’m currently learning Cyber Security, Web Development
 - 💞️ I’m looking to collaborate on any Open Source Project
 - 📫 Ping me at sssvjha@gmail.com
 
