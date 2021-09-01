@@ -1,4 +1,4 @@
-#I am Shivam Jha# 
+# I am Shivam Jha
 👋 Hi, I’m @ShivamJhaa
 - 👀 I’m interested in Cyber Security and AI
 - 🌱 I’m currently learning Cyber Security, Web Development
