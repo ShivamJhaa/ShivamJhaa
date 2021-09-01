@@ -12,5 +12,5 @@ jobs:
     steps:
       - uses: ShivamJhaa/waka-readme-stats@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.94557df9-737e-4d9a-88f4-29a18728a62f }}
-          GH_TOKEN: ${{ secrets.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 }}
+          WAKATIME_API_KEY: ${{ 94557df9-737e-4d9a-88f4-29a18728a62f }}
+          GH_TOKEN: ${{ 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 }}
