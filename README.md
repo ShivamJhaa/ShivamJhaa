@@ -1,5 +1,5 @@
 # I am Shivam Jha
-👋 Hi, I’m @ShivamJhaa
+## I'm an undergraduate student of IIIT Jabalpur class of 2020
 - 👀 I’m interested in Cyber Security and AI
 - 🌱 I’m currently learning Cyber Security, Web Development
 - 💞️ I’m looking to collaborate on any Open Source Project
