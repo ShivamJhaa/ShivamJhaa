@@ -3,11 +3,11 @@
 ##### I'm currently learning Web Development.
 ##### My interests include artificial intelligence, machine learning and cyber security.
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=${ShivamJhaa}.${ShivamJhaa}) <img src="https://img.shields.io/github/last-commit/ShivamJhaa/jsprojects" alt="stats">
+![visitors](https://visitor-badge.glitch.me/badge?page_id=${ShivamJhaa}.${ShivamJhaa})  <img src="https://img.shields.io/github/followers/ShivamJhaa?style=social">
 
-<img src="https://github.com/ShivamJhaa/ShivamJhaa/blob/main/images/stat.svg"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShivamJhaa&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img src="https://img.shields.io/github/last-commit/ShivamJhaa/jsprojects" alt="stats">
 
 <!--START_SECTION:waka-->
 ```text
