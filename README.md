@@ -1,10 +1,9 @@
-### **Hello, I am Shivam Jha**
-#### I'm an undergraduate student of IIIT Jabalpur class of 2020
+#### **Hello, I am Shivam Jha**
+##### I'm an undergraduate student of IIIT Jabalpur class of 2020
+##### I'm currently learning Web Development.
+##### My interests include artificial intelligence, machine learning and cyber security.
 
-#### I'm currently learning Web Development and wishes to make a career in Cyber Security.
-#### My interests include software design and development, artificial intelligence, machine learning, cyber security etc.
-
-##### Glad to see you here ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+##### Glad to see you here   ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 <img src="https://github.com/ShivamJhaa/ShivamJhaa/blob/main/images/stat.svg" alt="WakaTime Text"/>
 
