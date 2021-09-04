@@ -1,11 +1,12 @@
-# **Hello, I am Shivam Jha**
-## I'm an undergraduate student of IIIT Jabalpur class of 2020
+### **Hello, I am Shivam Jha**
+#### I'm an undergraduate student of IIIT Jabalpur class of 2020
 
-### I'm currently learning Web Development and wishes to make a career in Cyber Security.
-### My interests include software design and development, artificial intelligence, machine learning, cyber security etc.
+#### I'm currently learning Web Development and wishes to make a career in Cyber Security.
+#### My interests include software design and development, artificial intelligence, machine learning, cyber security etc.
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<img src="https://github.com/ShivamJhaa/ShivamJhaa/blob/main/images/stat.svg" alt="Alternative Text"/>
+Example: <img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Avinal WakaTime Activity"/>
+
 
 
 <!---
