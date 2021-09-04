@@ -3,7 +3,7 @@
 ##### I'm currently learning Web Development.
 ##### My interests include artificial intelligence, machine learning and cyber security.
 
-##### Glad to see you here   ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=${ShivamJhaa}.${ShivamJhaa})
 
 <img src="https://github.com/ShivamJhaa/ShivamJhaa/blob/main/images/stat.svg"/>
 
