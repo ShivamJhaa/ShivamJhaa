@@ -4,7 +4,7 @@
 #### I'm currently learning Web Development and wishes to make a career in Cyber Security.
 #### My interests include software design and development, artificial intelligence, machine learning, cyber security etc.
 
-<img src="https://github.com/ShivamJhaa/ShivamJhaa/blob/main/images/stat.svg" alt="Alternative Text"/>
+<img src="https://github.com/ShivamJhaa/ShivamJhaa/blob/main/images/stat.svg" alt="WakaTime Text"/>
 Example: <img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Avinal WakaTime Activity"/>
 
 
