@@ -9,7 +9,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${ShivamJhaa}.${ShivamJhaa})  <img src="https://img.shields.io/github/followers/ShivamJhaa?style=social">
 
 ## 🔧Technology and Tools
-![](https://img.shields.io/badge/OS-LINUX/WINDOWS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/EDITOR-VS-CODE-informational?style=flat&logo=#007ACC&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/SHELL-BASH-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/CODE-C++/JS/ANGULAR-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-LINUX/WINDOWS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/EDITOR-VSCODE-informational?style=flat&logo=#007ACC&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/SHELL-BASH-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/CODE-C++/JS/ANGULAR-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 
 
@@ -29,19 +29,6 @@ C++          23 mins         ██░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 
-<!-- Actual text -->
-
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
-
-<!-- Icons -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-<!-- Links to your social media accounts -->
-
-[1]:https://www.instagram.com/shivaam.jha/
-[2]: https://www.linkedin.com/in/shivam-jha-bb44a4200/
 
 <!---
 ShivamJhaa/ShivamJhaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
