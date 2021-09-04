@@ -7,6 +7,8 @@
 
 <img src="https://github.com/ShivamJhaa/ShivamJhaa/blob/main/images/stat.svg" alt="WakaTime Text"/>
 
+<img height="180em" src="https://github-readme-stats.vercel.app/apiShivamJhaaGapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
 
 
 
