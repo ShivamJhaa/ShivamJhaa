@@ -4,6 +4,8 @@
 #### I'm currently learning Web Development and wishes to make a career in Cyber Security.
 #### My interests include software design and development, artificial intelligence, machine learning, cyber security etc.
 
+##### Glad to see you here ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
 <img src="https://github.com/ShivamJhaa/ShivamJhaa/blob/main/images/stat.svg" alt="WakaTime Text"/>
 
 
