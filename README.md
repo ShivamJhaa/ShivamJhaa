@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/ShivamJhaa/ShivamJhaa/ShivamJhaa/readme_header.png "Header")](https://affectionate-kirch-521b34.netlify.app/)
+[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
 
 #### **Hello, I am Shivam Jha**
 ##### I'm an undergraduate student of IIIT Jabalpur class of 2020
