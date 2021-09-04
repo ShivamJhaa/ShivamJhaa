@@ -26,11 +26,11 @@
 ## 📈 Github Stats
 <img src="https://img.shields.io/github/last-commit/ShivamJhaa/jsprojects" alt="stats">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShivamJhaa&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShivamJhaa&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" />
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamJhaa&theme=dark" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamJhaa&theme=dark" /><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ShivamJhaa&theme=dark" />
-
+## 💻 Waka-Time Stats
 <!--START_SECTION:waka-->
 ```text
 CSS          2 hrs           ███████████░░░░░░░░░░░░░░   43.38 % 
