@@ -1,12 +1,15 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-#### **Hello, I am Shivam Jha**
+#### **I am Shivam Jha**
 ##### I'm an undergraduate student of IIIT Jabalpur class of 2020
 ##### I'm currently learning Web Development.
 ##### My interests include artificial intelligence, machine learning and cyber security.
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${ShivamJhaa}.${ShivamJhaa})  <img src="https://img.shields.io/github/followers/ShivamJhaa?style=social">
+
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShivamJhaa&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
