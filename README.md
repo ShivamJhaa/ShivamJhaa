@@ -8,7 +8,8 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${ShivamJhaa}.${ShivamJhaa})  <img src="https://img.shields.io/github/followers/ShivamJhaa?style=social">
 
-![](https://img.shields.io/badge/<OS>-<LINUX/WINDOWS>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/<EDITOR>-<VS-CODE>-informational?style=flat&logo=<#007ACC>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/<SHELL>-<BASH>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/<CODE>-<C++/JS/ANGULAR>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+## 🔧Technology and Toools
+![](https://img.shields.io/badge/OS-LINUX/WINDOWS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/EDITOR-VS-CODE-informational?style=flat&logo=#007ACC&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/SHELL-BASH-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)![](https://img.shields.io/badge/CODE-C++/JS/ANGULAR-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 
 
