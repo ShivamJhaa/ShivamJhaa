@@ -5,7 +5,7 @@
 #### My interests include software design and development, artificial intelligence, machine learning, cyber security etc.
 
 <img src="https://github.com/ShivamJhaa/ShivamJhaa/blob/main/images/stat.svg" alt="WakaTime Text"/>
-Example: <img src="https://github.com/avinal/avinal/blob/main/images/stat.svg" alt="Avinal WakaTime Activity"/>
+
 
 
 
