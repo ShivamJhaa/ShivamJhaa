@@ -24,6 +24,7 @@
 ![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=4AB197)
 
 ## 📈 Github Stats
+
 <img src="https://img.shields.io/github/last-commit/ShivamJhaa/jsprojects" alt="stats">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShivamJhaa&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" />
