@@ -9,7 +9,7 @@
 ##### I'm currently learning Web Development.
 ##### My interests include artificial intelligence, machine learning and cyber security.
 
-<a href="https://shivamjhaa.github.io/portfolioSite/">Portfolio Website</a>
+<a href="https://shivamjhaa.github.io/portfolioSite/" target="blank">Portfolio Website</a>
 ## 🔧Technology and Tools
 ![](https://img.shields.io/badge/OS-LINUX/WINDOWS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/EDITOR-VSCODE-informational?style=flat&logo=#007ACC&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/SHELL-BASH-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/CODE-C++/JS/ANGULAR-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
