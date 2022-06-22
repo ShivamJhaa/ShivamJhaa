@@ -1,5 +1,5 @@
 
-## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hello, folks!
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${ShivamJhaa}.${ShivamJhaa})  <img src="https://img.shields.io/github/followers/ShivamJhaa?style=social">
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/shivam-jha-bb44a4200/)
