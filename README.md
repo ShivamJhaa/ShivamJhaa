@@ -6,22 +6,8 @@
 
 #### **I am Shivam Jha**
 ##### I'm an undergraduate student of IIIT Jabalpur class of 2020
-##### I'm currently learning Web Development.
-##### My interests include artificial intelligence, machine learning and cyber security.
 
 <a href="https://shivamjhaa.github.io/ShivamJha/" target="blank">Portfolio Website</a>
-## 🔧Technology and Tools
-![](https://img.shields.io/badge/OS-LINUX/WINDOWS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/EDITOR-VSCODE-informational?style=flat&logo=#007ACC&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/SHELL-BASH-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/CODE-C++/JS/ANGULAR-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-
-## 💼 Skills
-![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=4AB197)
 
 ## 📈 Github Stats
 
